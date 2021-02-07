@@ -45,7 +45,6 @@ Props are sort of like arguments in a function. Props are passed from the parent
 
 A side effect is anything that affects something outside of the scope of the function being executed. We sync effects in React components with state and prop changes.
 
-
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
